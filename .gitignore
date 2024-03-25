@@ -2,7 +2,7 @@
 carpeta_a_ignorar/*.txt
 # Ignorar *.pdf en carpeta pdfs/ignorar:
 pdfs/ignorar/*.pdf
-# Ignorar Archivo .env:
+# Ignorar Archivos .env:
 *.env
 # Ignorar Carpetas venv y node_modules:
 venv/*
