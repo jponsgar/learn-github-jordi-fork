@@ -29,3 +29,8 @@ Finalmente, vamos a fusionar todos estos contenidos en `libro`. El resultado deb
 
 5. Subir el repositorio del ejercicio 4 a Github.
 
+1213 Mensaje del Revert aquí
+0asa Cambio 1
+0012 Cambio 2
+0123 Cambio 3
+
