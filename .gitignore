@@ -7,4 +7,3 @@ pdfs/ignorar/*.pdf
 # Ignorar Carpetas venv/ y node_modules/:
 venv/*
 node_modules/*
-.gitignore
